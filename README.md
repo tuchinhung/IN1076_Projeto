@@ -14,7 +14,7 @@ Adicionar atividades
 py agenda.py
 py agenda.py a
 py agenda.py a 10092020 fazer festa @Casa
-py agenda.py a Apresentar GEPSO. @UFPE +IN1076
+py agenda.py a Apresentar GEPSO. +IN1077
 ```
 
 Listar atividades
