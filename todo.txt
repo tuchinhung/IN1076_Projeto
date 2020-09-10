@@ -3,10 +3,10 @@ Colocar a agua no planta
 (B) Continuar a especificacao do projeto de IN1076. +IN1076
 (B) Testar a especificacao do projeto de IN1076 terminada. +IN1076
 (A) Ler projeto de IN1076 +IN1076
-08052020 0800 (A) Ler artigo GEPSO. +Servico
+08052020 0800 (A) Ler artigo GEPSO. +IN1077
 (A) Continuar a fazer projeto do IN1076 +IN1076
 08092020 1030 Reuniao com Fabio. @GoogleMeet +Projeto
-08052020 1300 (B) Revisar artigo GEPSO +Servico
+08052020 1300 (B) Revisar artigo GEPSO +IN1077
 1400 (C) Liga para Ceoso marca o encontro +Outro
 1300 (C) Liga para Marco confirmar o encontro +Outro
 08052020 (D) Fazer compra do mercado +Outro
@@ -15,7 +15,7 @@ Colocar a agua no planta
 08052020 2100 Dormir cedo @Casa
 09052020 (A) Testar programa python. +Servico
 09092020 1030 Reuniao com Fabio. @GoogleMeet +Projeto
-(A) Criar a pasta do projeto em GitHub  +Projeto
-(B) Testa o codigo e estrutura o GitHub +Projeto
-(B) Revisa e testa o codigo python +Projeto
-2100 (B) Encaminha projeto para professor +Servico
+(A) Criar a pasta do projeto em GitHub  +IN1076
+(B) Testa o codigo e estrutura o GitHub +IN1076
+(B) Revisa e testa o codigo python +IN1076
+2100 (A) Encaminha projeto para professor +IN1076
