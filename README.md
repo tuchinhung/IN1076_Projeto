@@ -7,9 +7,9 @@ Fabio Antonio Pacheco Luz <fapl@cin.ufpe.br>
 Tu Chin Hung <tch@cin.ufpe.br>
 ```
 
-# Apresentação
+# Apresentação da agenda 
 
-Adicionar atividades à agenda 
+Adicionar atividades
 ```
 py agenda.py
 py agenda.py a
@@ -22,4 +22,4 @@ Listar atividades
 py agenda.py l
 py agenda.py l @Casa
 py agenda.py l +Outro
-
+```
