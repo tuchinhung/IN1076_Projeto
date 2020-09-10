@@ -1,13 +1,21 @@
-Comer menos a?ucar
-23052017 1030 Reuni?o com Huguinho, Luizinho e Zezinho. @Skype +Pesquisa
-(B) Terminar a especifica??o do projeto de IN1076. +IN1076
-(B) Publicar a especifica??o do projeto de IF968 terminada. +IN1076
-(A) Corrigir provas de IN1076 +IN1076
-23052017 (A) Ler artigo IST. +Servi?o
-2330 Dormir cedo @Casa
-(B) Revisar artigo IST +Service
-(B) Revisar artigos SBES +Service
-(B) Revisar artigos SBES Education +Service
-(B) Revisar artigos SBES Insightful Ideas +Service
-(B) Revisar artigos SBLP +Service
-(D) Ler "Optimizing energy consumption of GUIs in android apps: A multi-objective approach.
+Colocar a agua no planta
+07092020 1030 Reuniao com Fabio. @GoogleMeet +Projeto
+(B) Continuar a especificacao do projeto de IN1076. +IN1076
+(B) Testar a especificacao do projeto de IN1076 terminada. +IN1076
+(A) Ler projeto de IN1076 +IN1076
+08052020 0800 (A) Ler artigo GEPSO. +Servico
+(A) Continuar a fazer projeto do IN1076 +IN1076
+08092020 1030 Reuniao com Fabio. @GoogleMeet +Projeto
+08052020 1300 (B) Revisar artigo GEPSO +Servico
+1400 (C) Liga para Ceoso marca o encontro +Outro
+1300 (C) Liga para Marco confirmar o encontro +Outro
+08052020 (D) Fazer compra do mercado +Outro
+08052020 (C) Recarga Tim no Loterica +Outro
+08052020 (C) Efetua pagemento do boleto +Outro
+08052020 2100 Dormir cedo @Casa
+09052020 (A) Testar programa python. +Servico
+09092020 1030 Reuniao com Fabio. @GoogleMeet +Projeto
+(A) Criar a pasta do projeto em GitHub  +Projeto
+(B) Testa o codigo e estrutura o GitHub +Projeto
+(B) Revisa e testa o codigo python +Projeto
+2100 (B) Encaminha projeto para professor +Servico
