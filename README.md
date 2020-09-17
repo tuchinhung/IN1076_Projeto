@@ -11,15 +11,58 @@ Tu Chin Hung <tch@cin.ufpe.br>
 
 Adicionar atividades
 ```
-py agenda.py
-py agenda.py a
-py agenda.py a 10092020 fazer festa @Casa
-py agenda.py a Apresentar GEPSO. +IN1077
+python3 agenda.py
+python3 agenda.py a
+python3 agenda.py a 10092020 fazer festa @Casa
+python3 agenda.py a Apresentar GEPSO. +UFPE
 ```
 
 Listar atividades
 ```
-py agenda.py l
-py agenda.py l @Casa
-py agenda.py l +Outro
+python3 agenda.py l
+python3 agenda.py l @Casa
+python3 agenda.py l +Outro
+python3 agenda.py l (A)
+python3 agenda.py l (B)
+```
+
+Mudar prioridade
+```
+python3 agenda.py p
+python3 agenda.py p 2 B
+python3 agenda.py p 2 D
+python3 agenda.py p 2 CC
+python3 agenda.py p 2 b
+python3 agenda.py p A 2
+python3 agenda.py p 2 A 1
+```
+
+Remover Atividaes
+```
+python3 agenda.py r
+python3 agenda.py r 2
+python3 agenda.py r 1030
+python3 agenda.py r 0
+python3 agenda.py r -1
+python3 agenda.py r B
+```
+
+Fazer Atividaes
+```
+python3 agenda.py f
+python3 agenda.py f 1
+python3 agenda.py f 1030
+python3 agenda.py f 0
+python3 agenda.py f -1
+python3 agenda.py f C
+```
+
+Grafico Motivacional
+```
+python3 agenda.py g
+python3 agenda.py g 1
+python3 agenda.py g 1030
+python3 agenda.py g 0
+python3 agenda.py f -1
+python3 agenda.py f A
 ```
