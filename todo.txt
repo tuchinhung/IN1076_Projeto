@@ -17,5 +17,13 @@ Colocar a agua no planta
 09092020 1030 Reuniao com Fabio. @GoogleMeet +Projeto
 (A) Criar a pasta do projeto em GitHub  +UFPE
 (B) Testa o codigo e estrutura o GitHub +UFPE
-(B) Revisa e testa o codigo python +IN1076
+(B) Revisa e testa o codigo python +UFPE
 2100 (A) Encaminha projeto para professor +UFPE
+07092020 1030
+08092020 1030
+(A)
+(B)
++UFPE
++Projeto
+@GoogleMeet
+@Outro
