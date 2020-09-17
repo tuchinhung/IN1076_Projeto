@@ -7,11 +7,11 @@ Colocar a agua no planta
 (A) Continuar a fazer projeto do IN1076 +IN1076
 08092020 1030 Reuniao com Fabio. @GoogleMeet +Projeto
 08052020 1300 (B) Revisar artigo GEPSO +IN1077
-1400 (C) Liga para Ceoso marca o encontro +Outro
-1300 (C) Liga para Marco confirmar o encontro +Outro
-08052020 (D) Fazer compra do mercado +Outro
-08052020 (C) Recarga Tim no Loterica +Outro
-08052020 (C) Efetua pagemento do boleto +Outro
+1400 (C) Liga para Ceoso marca o encontro @Outro
+1300 (C) Liga para Marco confirmar o encontro @Outro
+08052020 (D) Fazer compra do mercado @Outro
+08052020 (C) Recarga Tim no Loterica @Outro
+08052020 (C) Efetua pagemento do boleto @Outro
 08052020 2100 Dormir cedo @Casa
 09052020 (A) Testar programa python. +Servico
 09092020 1030 Reuniao com Fabio. @GoogleMeet +Projeto
