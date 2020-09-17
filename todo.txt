@@ -1,12 +1,12 @@
 Colocar a agua no planta
 07092020 1030 Reuniao com Fabio. @GoogleMeet +Projeto
-(B) Continuar a especificacao do projeto de IN1076. +IN1076
-(B) Testar a especificacao do projeto de IN1076 terminada. +IN1076
-(A) Ler projeto de IN1076 +IN1076
-08052020 0800 (A) Ler artigo GEPSO. +IN1077
-(A) Continuar a fazer projeto do IN1076 +IN1076
+(B) Continuar a especificacao do projeto de IN1076. +UFPE
+(B) Testar a especificacao do projeto de IN1076 terminada. +UFPE
+(A) Ler projeto de IN1076 +UFPE
+08052020 0800 (A) Ler artigo GEPSO. +UFPE
+(A) Continuar a fazer projeto do IN1076 +UFPE
 08092020 1030 Reuniao com Fabio. @GoogleMeet +Projeto
-08052020 1300 (B) Revisar artigo GEPSO +IN1077
+08052020 1300 (B) Revisar artigo GEPSO +UFPE
 1400 (C) Liga para Ceoso marca o encontro @Outro
 1300 (C) Liga para Marco confirmar o encontro @Outro
 08052020 (D) Fazer compra do mercado @Outro
@@ -15,7 +15,7 @@ Colocar a agua no planta
 08052020 2100 Dormir cedo @Casa
 09052020 (A) Testar programa python. +Servico
 09092020 1030 Reuniao com Fabio. @GoogleMeet +Projeto
-(A) Criar a pasta do projeto em GitHub  +IN1076
-(B) Testa o codigo e estrutura o GitHub +IN1076
+(A) Criar a pasta do projeto em GitHub  +UFPE
+(B) Testa o codigo e estrutura o GitHub +UFPE
 (B) Revisa e testa o codigo python +IN1076
-2100 (A) Encaminha projeto para professor +IN1076
+2100 (A) Encaminha projeto para professor +UFPE
